@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8ry4ailt7rr5mbu7?svg=true)](https://ci.appveyor.com/project/TomPallister/ocelot-cache-cachemanager)
 Windows (AppVeyor)
-[![Build Status](https://travis-ci.org/ThreeMammals/Ocelot.Cache.Caching.svg?branch=develop)](https://travis-ci.org/ThreeMammals/Ocelot.Cache.Caching) Linux & OSX (Travis)
+[![Build Status](https://travis-ci.org/ThreeMammals/Ocelot.Cache.CacheManager.svg?branch=master)](https://travis-ci.org/ThreeMammals/Ocelot.Cache.CacheManager) Linux & OSX (Travis)
 
 [![Coverage Status](https://coveralls.io/repos/github/ThreeMammals/Ocelot.Cache.CacheManager/badge.svg?branch=develop)](https://coveralls.io/github/ThreeMammals/Ocelot.Cache.CacheManager?branch=develop)
 
